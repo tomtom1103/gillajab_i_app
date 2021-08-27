@@ -125,7 +125,7 @@
 # kaldiio==2.17.2
 # kenlm @ https://github.com/kpu/kenlm/archive/master.zip
 # kiwisolver==1.3.1
-# konlpy @ git+https://github.com/e9t/konlpy.git@21bc951bb54e4e875edc57b25fa52f70ac2a293e
+konlpy @ git+https://github.com/e9t/konlpy.git@21bc951bb54e4e875edc57b25fa52f70ac2a293e
 # korean-romanizer==0.22
 # kss==2.5.1
 # librosa==0.8.1
@@ -196,7 +196,7 @@
 # python-dateutil==2.8.2
 # python-dev-tools==2020.9.10
 # python-Levenshtein==0.12.2
-python-mecab-ko==1.0.11
+# python-mecab-ko==1.0.11
 # pytorch-wpe==0.0.1
 # pytz==2021.1
 # pyupgrade==2.24.0
