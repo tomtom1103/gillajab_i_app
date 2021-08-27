@@ -1,0 +1,1 @@
+exp/asr_train_asr_transformer5.aihub_raw_bpe/valid.acc.best_8.pth filter=lfs diff=lfs merge=lfs -text
