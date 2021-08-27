@@ -177,7 +177,6 @@ py==1.10.0
 pyarrow==5.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio==0.2.11
 pycodestyle==2.7.0
 pycparser==2.20
 pydeck==0.6.2
