@@ -196,7 +196,7 @@ pytest-cov==2.12.1
 python-dateutil==2.8.2
 python-dev-tools==2020.9.10
 python-Levenshtein==0.12.2
-python-mecab-ko==1.0.11
+#python-mecab-ko==1.0.11
 pytorch-wpe==0.0.1
 pytz==2021.1
 pyupgrade==2.24.0
